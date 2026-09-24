@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e50e166-2697-4011-926c-b878804bc3a0" name="Changes" comment="" />
+    <list default="true" id="2e50e166-2697-4011-926c-b878804bc3a0" name="Changes" comment="fix: changed gitignore location">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,28 +12,114 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LuizEduardoGurgel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LuizEduardoGurgel/rest-with-spring-boot.git&quot;,
+    &quot;accountId&quot;: &quot;b7f156c4-61b5-4345-926a-f433b2355544&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0041897135852929" />
+      <entry key="MS500" value="1.4174667797096254" />
+      <entry key="S2" value="2.8490595447559803" />
+      <entry key="S5" value="4.611615131315483" />
+      <entry key="S10" value="5.899228376430092" />
+      <entry key="S30" value="7.177363375660493" />
+      <entry key="S60" value="7.570743501398307" />
+      <entry key="M2" value="7.780658475235598" />
+      <entry key="M5" value="7.911101465060772" />
+      <entry key="M10" value="7.955354453176872" />
+      <entry key="M15" value="7.970192487708255" />
+      <entry key="M30" value="7.9850742872301455" />
+      <entry key="H1" value="7.992531645171778" />
+      <entry key="H2" value="7.996264446812292" />
+      <entry key="H4" value="7.998131879317285" />
+      <entry key="D1" value="7.999688598750409" />
+      <entry key="W1" value="7.999955512936367" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9835237671510194" />
+      <entry key="MS500" value="1.4114684072097914" />
+      <entry key="S2" value="2.8456851272605665" />
+      <entry key="S5" value="4.6092986960427265" />
+      <entry key="S10" value="5.897718957464612" />
+      <entry key="S30" value="7.176744517905711" />
+      <entry key="S60" value="7.570416302214289" />
+      <entry key="M2" value="7.780490137385391" />
+      <entry key="M5" value="7.911032952560351" />
+      <entry key="M10" value="7.955319997249468" />
+      <entry key="M15" value="7.970169472457945" />
+      <entry key="M30" value="7.98506275722377" />
+      <entry key="H1" value="7.992525874561027" />
+      <entry key="H2" value="7.99626156010349" />
+      <entry key="H4" value="7.998130435611836" />
+      <entry key="D1" value="7.99968835808406" />
+      <entry key="W1" value="7.999955478554266" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3JPnVDk5ljWuWwGm8pIvIileLPe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/dudugurgel/Documents/rest-with-spring-boot"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dudugurgel/Documents/rest-with-spring-boot&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
       </set>
     </attachedChunks>
   </component>
@@ -44,5 +132,12 @@
       <updated>1789571592998</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: changed gitignore location" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: changed gitignore location" />
   </component>
 </project>
